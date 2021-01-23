@@ -6,4 +6,4 @@
 - [SAP Inside Track Event](https://wiki.scn.sap.com/wiki/display/events)
 
 ### Projekte und Dokumente
-- [Chatbots für SAP](https://mdjoerg.github.io/SAPStammtischMD/chatbot_test.html) 
+- [Chatbots für SAP](https://github.com/MDJoerg/SAPStammtischMD/blob/gh-pages/chatbot-test.html) 
