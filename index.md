@@ -16,9 +16,9 @@ Das nächste SAP Stammtisch Magdeburg Treffen findet am 29.03.2021 19:00 Uhr vir
 Unterlagen zu vergangenen SAP Stammtisch Treffen liegen bei uns im [Archiv](sstmd_archiv.md). Wir können nicht alle Unterlagen öffentlich freigeben und haben nicht für jedes Treffen Unterlagen abgelegt.
 
 
-### Aktuelle Projekte und Dokumente
+### Sonstige Projekte und Dokumente
 #### SAPCDSStarterSet - Workshop (ABAP Trial in the Cloud, CDS Basics) 
-Dieser Workshop wurde am 13.11.2020 vom SAP Stammtisch Bern u.a. organisiert. 
+Dieser Workshop wurde am 13.11.2020 vom SAP Stammtisch Bern u.a. organisiert. Ein nächster Termin ist für März/April 2021 geplant.
 
 Weitere Infos:
 - [SAP Stammtisch Bern WIKI mit Infos zum Projekt](https://wiki.scn.sap.com/wiki/display/events/SAP+Stammtisch+Bern+und+virtuell+Schweiz). 
@@ -26,8 +26,8 @@ Weitere Infos:
 
 
 #### Chatbots für SAP
-Das Thema Chatbots für SAP ist ein Vortrag auf dem SAP Stammtisch Magdeburg vom 25.01.2021. 
+Das Thema Chatbots für SAP wurde beim SAP Stammtisch Treffen am 25.01.2021 vorgestellt.  
 
 Dokumente und Informationen:
 - [SAP CAI - Conversational AI](https://cai.tools.sap)
-- [Chatbot Testseite](https://mdjoerg.github.io/SAPStammtischMD/sstmd_faqbot.html)
+- [SAP Stammtisch FAQ Bot Testseite](https://mdjoerg.github.io/SAPStammtischMD/sstmd_faqbot.html)
