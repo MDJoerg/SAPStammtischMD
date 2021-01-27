@@ -1,11 +1,7 @@
 ## Willkommen zu den öffentlichen Ressourcen vom SAP Stammtisch Magdeburg
 
 ### Aktuelles - Nächstes Treffen
-Das nächste SAP Stammtisch Magdeburg Treffen findet am 25.01.2021 virtuell statt. Start ist 19:00 Uhr. Anmeldung und Anmeldeinformationen über [Xing](https://www.xing.com/events/sap-stammtisch-magdeburg-januar-2021-3231783). Das Motto der Veranstaltung ist "Intelligente Technologien in der Praxis". 
-
-Folgende Beiträge sind geplant: 
-- "Business Simulationen" als Möglichkeit, Entscheider und Mitarbeiter von ERP Systemen und digitalisierten Prozessen zu überzeugen
-- "Chatbots für SAP"
+Das nächste SAP Stammtisch Magdeburg Treffen findet am 29.03.2021 19:00 Uhr virtuell statt. Weitere Informationen folgen hier
 
 
 ### Community Links SAP u.a.
@@ -17,10 +13,10 @@ Folgende Beiträge sind geplant:
 
 
 ### Bisherige Stammtisch Treffen
-(coming soon)
+Unterlagen zu vergangenen SAP Stammtisch Treffen liegen bei uns im [Archiv](sstmd_archiv.md). Wir können nicht alle Unterlagen öffentlich freigeben und haben nicht für jedes Treffen Unterlagen abgelegt.
 
 
-### Weitere Projekte und Dokumente
+### Aktuelle Projekte und Dokumente
 #### SAPCDSStarterSet - Workshop (ABAP Trial in the Cloud, CDS Basics) 
 Dieser Workshop wurde am 13.11.2020 vom SAP Stammtisch Bern u.a. organisiert. 
 
